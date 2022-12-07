@@ -1,0 +1,11 @@
+h3{
+    font-family: "ARIAL", sans-serif;
+  font-weight: bolder;
+  font-size: 150%;
+
+}
+.myDiv {
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+  }
